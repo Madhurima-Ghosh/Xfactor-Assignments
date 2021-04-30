@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class program3 {
+public class prog3 {
     public static void main(String[] args)
     {
         int income;
