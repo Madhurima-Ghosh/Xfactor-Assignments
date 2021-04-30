@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class program1{
+class prog1{
     static double angle(int hour, int min)
     {
         double min_angle = 360.0*min/60.0;
